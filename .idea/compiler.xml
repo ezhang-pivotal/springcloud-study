@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-api-gateway" />
+        <module name="microservice-config-server" />
+        <module name="microservice-consumer-user" />
+        <module name="microservice-discovery-eureka" />
+        <module name="microservice-hystrix-dashboard" />
+        <module name="microservice-hystrix-turbine" />
+        <module name="microservice-provider-order" />
+        <module name="microservice-provider-product" />
+        <module name="microservice-provider-user" />
+        <module name="microservice-provider-user (1)" />
+        <module name="microservice-tracing-slueth" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="edge-service" target="1.8" />
+      <module name="microservice-api-gateway" target="1.8" />
+      <module name="microservice-config-client" target="1.8" />
+      <module name="microservice-config-server" target="1.8" />
+      <module name="microservice-consumer-user" target="1.8" />
+      <module name="microservice-disconvery-eurake" target="1.8" />
+      <module name="microservice-discovery-eureka" target="1.8" />
+      <module name="microservice-hystrix-dashboard" target="1.8" />
+      <module name="microservice-hystrix-turbine" target="1.8" />
+      <module name="microservice-provider-order" target="1.8" />
+      <module name="microservice-provider-product" target="1.8" />
+      <module name="microservice-provider-user" target="1.8" />
+      <module name="microservice-provider-user (1)" target="1.8" />
+      <module name="microservice-tracing-slueth" target="1.8" />
+      <module name="springcloud-study" target="1.8" />
+      <module name="user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

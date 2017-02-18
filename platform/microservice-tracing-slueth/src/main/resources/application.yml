@@ -1,0 +1,5 @@
+server:
+  port: 9411
+spring:
+  application:
+    name: microservice-tracing-slueth    # 项目名称尽量用小写

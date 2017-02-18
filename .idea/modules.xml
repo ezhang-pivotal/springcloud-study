@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/business/microservice-api-gateway/microservice-api-gateway.iml" filepath="$PROJECT_DIR$/business/microservice-api-gateway/microservice-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/microservice-config-server/microservice-config-server.iml" filepath="$PROJECT_DIR$/platform/microservice-config-server/microservice-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/microservice-consumer-user/microservice-consumer-user.iml" filepath="$PROJECT_DIR$/business/microservice-consumer-user/microservice-consumer-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/microservice-discovery-eureka/microservice-discovery-eureka.iml" filepath="$PROJECT_DIR$/platform/microservice-discovery-eureka/microservice-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/microservice-hystrix-dashboard/microservice-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/platform/microservice-hystrix-dashboard/microservice-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/microservice-hystrix-turbine/microservice-hystrix-turbine.iml" filepath="$PROJECT_DIR$/platform/microservice-hystrix-turbine/microservice-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/microservice-provider-order/microservice-provider-order.iml" filepath="$PROJECT_DIR$/business/microservice-provider-order/microservice-provider-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/microservice-provider-product/microservice-provider-product.iml" filepath="$PROJECT_DIR$/business/microservice-provider-product/microservice-provider-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/microservice-provider-user/microservice-provider-user.iml" filepath="$PROJECT_DIR$/business/microservice-provider-user/microservice-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/microservice-tracing-slueth/microservice-tracing-slueth.iml" filepath="$PROJECT_DIR$/platform/microservice-tracing-slueth/microservice-tracing-slueth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-study.iml" filepath="$PROJECT_DIR$/springcloud-study.iml" />
+    </modules>
+  </component>
+</project>
